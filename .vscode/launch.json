@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/megancowart/Documents/CUAD/Lazy-Theta-Star",
-      "program": "/Users/megancowart/Documents/CUAD/Lazy-Theta-Star/build/Debug/outDebug"
+      "cwd": "/Users/megancowart/Documents/CUAD/Lazy-Theta-Star/helloworld",
+      "program": "/Users/megancowart/Documents/CUAD/Lazy-Theta-Star/helloworld/build/Debug/outDebug"
     }
   ]
 }
